@@ -1,0 +1,22 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "leetcode solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/soonfy/leetcode.git"
+  },
+  "keywords": [
+    "leetcode"
+  ],
+  "author": "soonfy <soonfy@163.com> (https://github.com/soonfy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soonfy/leetcode/issues"
+  },
+  "homepage": "https://github.com/soonfy/leetcode#readme"
+}
